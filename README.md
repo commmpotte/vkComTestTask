@@ -44,10 +44,9 @@ group-management-app/
   │   ├── components/      # React components
   │   ├── server/          # Mock server data
   │   ├── types/           # TypeScript types/interfaces
-  │   ├── App.tsx          # Main application component
-  │   └── index.tsx        # Entry point
+  │   ├── App.jsx          # Main application component
+  │   └── index.js         # Entry point
   ├── .gitignore           # Git ignore file
   ├── package.json         # Node.js dependencies and scripts
-  ├── README.md            # Project documentation
-  └── tsconfig.json        # TypeScript configuration
+  └── README.md            # Project documentation
 ```
